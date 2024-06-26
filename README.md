@@ -1,6 +1,6 @@
 # Discord-Nitro-Generator
 
-[INFO 💭] 
+[INFO 💭]  [🔴Updating🔴]
 This is a discord nitro generator. 
 The generator is based on the Python programming language.
 It is COMPLETELY FREE, you should not trust anyone who claims this script as theirs and sells it!
